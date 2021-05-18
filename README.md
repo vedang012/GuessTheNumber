@@ -3,7 +3,7 @@ This is a simple python program of game "Guess The Number"
 
 ### How to it looks after running program? / How to play?
 
-`Instructions :
+```Instructions :
 A random number between the range of 1 to 20 is hidden you have to guess that number. 
 You have 9 chances. 
 If you will be unable to guess that number in 9 chances the game will be overed. 
@@ -31,5 +31,5 @@ Chances left : 3
 3
 You Won, Congratulation!
 
-Process finished with exit code 0`
+Process finished with exit code 0```
 
